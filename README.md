@@ -13,12 +13,17 @@ Litter Box is a collection of utilities and components that are useful across Un
 7. In your code, import the package(s) you want to use and create your game!
 
     ```
+    using LitterBox.Debug;
     using LitterBox.Utils;
     using LitterBox.ScreenCapture;
     using LitterBox.Models;
     ```
 
 ## Packages
+
+### LitterBox.Debug
+
+*Documentation Not Yet Completed*
 
 ### LitterBox.Utils
 
