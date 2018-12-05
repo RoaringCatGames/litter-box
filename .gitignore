@@ -42,5 +42,6 @@ sysinfo.txt
 # Visual Studio Code
 .vscode
 
-# Cool Carkour files
-analytics_*
+# Outputs
+./*.unitypackage
+
