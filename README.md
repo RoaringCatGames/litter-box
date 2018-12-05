@@ -4,7 +4,7 @@ Litter Box is a collection of utilities and components that are useful across Un
 
 ## How to Use Litter Box
 
-1. Download or clone this repository
+1. Download the latest release [HERE](https://github.com/RoaringCatGames/litter-box/releases)
 2. Open your Unity project
 3. Open the "Assets" menu option
 4. Select "Import Package > Custom Package..."
@@ -34,5 +34,9 @@ Litter Box is a collection of utilities and components that are useful across Un
 *Documentation Not Yet Completed*
 
 ### LitterBox.Models
+
+*Documentation Not Yet Completed*
+
+### LitterBox.ScriptableObjects
 
 *Documentation Not Yet Completed*
